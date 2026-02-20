@@ -1,4 +1,13 @@
-widgets:
-  - id: ports
-    selector:
-      id: /^port\d+$/
+colors:
+  up: "#00c853"
+  down: "#d50000"
+
+cellColorMappings:
+  darkTheme:
+    up: up
+    down: down
+
+thresholds:
+  operstatus:
+    - { color: down, level: 2 }
+    - { color: up, level: 1 }

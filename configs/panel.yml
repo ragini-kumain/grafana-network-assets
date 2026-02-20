@@ -1,37 +1,17 @@
 cellIdPreamble: "cell-"
 
-colors:
-  up: "#00c853"
-  down: "#d50000"
-  unknown: "#555555"
-
-thresholds:
-  operstatus:
-    - { color: "up", level: 1 }
-    - { color: "down", level: 2 }
-
 cells:
-  port1:  { dataRef: port1,  cellColor: { thresholdsRef: operstatus } }
-  port2:  { dataRef: port2,  cellColor: { thresholdsRef: operstatus } }
-  port3:  { dataRef: port3,  cellColor: { thresholdsRef: operstatus } }
-  port4:  { dataRef: port4,  cellColor: { thresholdsRef: operstatus } }
-  port5:  { dataRef: port5,  cellColor: { thresholdsRef: operstatus } }
-  port6:  { dataRef: port6,  cellColor: { thresholdsRef: operstatus } }
-  port7:  { dataRef: port7,  cellColor: { thresholdsRef: operstatus } }
-  port8:  { dataRef: port8,  cellColor: { thresholdsRef: operstatus } }
-  port9:  { dataRef: port9,  cellColor: { thresholdsRef: operstatus } }
-  port10: { dataRef: port10, cellColor: { thresholdsRef: operstatus } }
-  port11: { dataRef: port11, cellColor: { thresholdsRef: operstatus } }
-  port12: { dataRef: port12, cellColor: { thresholdsRef: operstatus } }
-  port13: { dataRef: port13, cellColor: { thresholdsRef: operstatus } }
-  port14: { dataRef: port14, cellColor: { thresholdsRef: operstatus } }
-  port15: { dataRef: port15, cellColor: { thresholdsRef: operstatus } }
-  port16: { dataRef: port16, cellColor: { thresholdsRef: operstatus } }
-  port17: { dataRef: port17, cellColor: { thresholdsRef: operstatus } }
-  port18: { dataRef: port18, cellColor: { thresholdsRef: operstatus } }
-  port19: { dataRef: port19, cellColor: { thresholdsRef: operstatus } }
-  port20: { dataRef: port20, cellColor: { thresholdsRef: operstatus } }
-  port21: { dataRef: port21, cellColor: { thresholdsRef: operstatus } }
-  port22: { dataRef: port22, cellColor: { thresholdsRef: operstatus } }
-  port23: { dataRef: port23, cellColor: { thresholdsRef: operstatus } }
-  port24: { dataRef: port24, cellColor: { thresholdsRef: operstatus } }
+  port1:
+    dataRef: port1
+    cellColor:
+      thresholdsRef: operstatus
+
+  port2:
+    dataRef: port2
+    cellColor:
+      thresholdsRef: operstatus
+
+  port3:
+    dataRef: port3
+    cellColor:
+      thresholdsRef: operstatus
