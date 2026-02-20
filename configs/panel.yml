@@ -1,11 +1,45 @@
-rules:
-  - id: port-status
-    widgets: ports
-    stroke:
-      value: metric
-      mappings:
-        - when: 1
-          color: "#00c853"
-        - when: 2
-          color: "#d50000"
-      default: "#555555"
+# --- REQUIRED GLOBALS ---
+cellIdPreamble: ""
+
+colors:
+  up: "#00c853"
+  down: "#d50000"
+  unknown: "#555555"
+
+cellColorMappings:
+  darkTheme:
+    up: up
+    down: down
+    unknown: unknown
+
+thresholds:
+  operstatus:
+    - { color: "up", level: 1 }
+    - { color: "down", level: 2 }
+
+# --- CELLS (THIS IS THE IMPORTANT PART) ---
+cells:
+  port1:
+    dataRef: port1
+    cellColor:
+      thresholdsRef: operstatus
+
+  port2:
+    dataRef: port2
+    cellColor:
+      thresholdsRef: operstatus
+
+  port3:
+    dataRef: port3
+    cellColor:
+      thresholdsRef: operstatus
+
+  port4:
+    dataRef: port4
+    cellColor:
+      thresholdsRef: operstatus
+
+  port5:
+    dataRef: port5
+    cellColor:
+      thresholdsRef: operstatus
