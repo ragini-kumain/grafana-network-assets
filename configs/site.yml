@@ -1,0 +1,4 @@
+widgets:
+  - id: ports
+    selector:
+      id: /^port\d+$/

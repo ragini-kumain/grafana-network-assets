@@ -1,6 +1,11 @@
 rules:
-  - id: prove-flow
-    match:
-      id: /.*/
+  - id: port-status
+    widgets: ports
     stroke:
-      color: "#ff00ff"
+      value: metric
+      mappings:
+        - when: 1
+          color: "#00c853"
+        - when: 2
+          color: "#d50000"
+      default: "#555555"
