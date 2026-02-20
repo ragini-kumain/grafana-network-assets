@@ -1,3 +1,4 @@
+---
 cellIdPreamble: "cell-"
 
 cells:
@@ -24,4 +25,4 @@ cells:
   port21: { dataRef: port21, cellColor: { thresholdsRef: operstatus } }
   port22: { dataRef: port22, cellColor: { thresholdsRef: operstatus } }
   port23: { dataRef: port23, cellColor: { thresholdsRef: operstatus } }
-  port24: { dataRef: port24, cellColor: { thresholdsRef: operstatus } }fi
+  port24: { dataRef: port24, cellColor: { thresholdsRef: operstatus } }
