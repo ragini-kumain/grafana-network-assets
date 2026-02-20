@@ -1,12 +1,6 @@
 rules:
-  - id: port-oper-status
+  - id: prove-it
     match:
       id: /^port\d+$/
     stroke:
-      value: metric
-      mappings:
-        - when: 1
-          color: "#00c853"   # GREEN → link UP
-        - when: 2
-          color: "#d50000"   # RED → link DOWN
-      default: "#555555"     # GREY → no data / unknown
+      color: "#ff00ff"
