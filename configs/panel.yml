@@ -1,0 +1,12 @@
+rules:
+  - id: port-oper-status
+    match:
+      id: /^port\d+$/     # matches port1, port2, ...
+    stroke:
+      value: metric
+      mappings:
+        - when: 1
+          color: "#00c853"   # UP
+        - when: 2
+          color: "#d50000"   # DOWN
+      default: "#555555"
