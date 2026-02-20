@@ -1,6 +1,6 @@
 rules:
-  - id: prove-it
+  - id: force-test
     match:
-      id: /^port\d+$/
+      id: /.*/
     stroke:
       color: "#ff00ff"
