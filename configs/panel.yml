@@ -1,27 +1,27 @@
 cellIdPreamble: "cell-"
 
 cells:
-  ethernet 1/1/1:  { dataRef: "ethernet 1/1/1",  cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/2:  { dataRef: "ethernet 1/1/2",  cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/3:  { dataRef: "ethernet 1/1/3",  cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/4:  { dataRef: "ethernet 1/1/4",  cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/5:  { dataRef: "ethernet 1/1/5",  cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/6:  { dataRef: "ethernet 1/1/6",  cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/7:  { dataRef: "ethernet 1/1/7",  cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/8:  { dataRef: "ethernet 1/1/8",  cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/9:  { dataRef: "ethernet 1/1/9",  cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/10: { dataRef: "ethernet 1/1/10", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/11: { dataRef: "ethernet 1/1/11", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/12: { dataRef: "ethernet 1/1/12", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/13: { dataRef: "ethernet 1/1/13", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/14: { dataRef: "ethernet 1/1/14", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/15: { dataRef: "ethernet 1/1/15", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/16: { dataRef: "ethernet 1/1/16", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/17: { dataRef: "ethernet 1/1/17", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/18: { dataRef: "ethernet 1/1/18", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/19: { dataRef: "ethernet 1/1/19", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/20: { dataRef: "ethernet 1/1/20", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/21: { dataRef: "ethernet 1/1/21", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/22: { dataRef: "ethernet 1/1/22", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/23: { dataRef: "ethernet 1/1/23", cellColor: { thresholdsRef: operstatus } }
-  ethernet 1/1/24: { dataRef: "ethernet 1/1/24", cellColor: { thresholdsRef: operstatus } }
+  port1:  { dataRef: port1,  cellColor: { thresholdsRef: operstatus } }
+  port2:  { dataRef: port2,  cellColor: { thresholdsRef: operstatus } }
+  port3:  { dataRef: port3,  cellColor: { thresholdsRef: operstatus } }
+  port4:  { dataRef: port4,  cellColor: { thresholdsRef: operstatus } }
+  port5:  { dataRef: port5,  cellColor: { thresholdsRef: operstatus } }
+  port6:  { dataRef: port6,  cellColor: { thresholdsRef: operstatus } }
+  port7:  { dataRef: port7,  cellColor: { thresholdsRef: operstatus } }
+  port8:  { dataRef: port8,  cellColor: { thresholdsRef: operstatus } }
+  port9:  { dataRef: port9,  cellColor: { thresholdsRef: operstatus } }
+  port10: { dataRef: port10, cellColor: { thresholdsRef: operstatus } }
+  port11: { dataRef: port11, cellColor: { thresholdsRef: operstatus } }
+  port12: { dataRef: port12, cellColor: { thresholdsRef: operstatus } }
+  port13: { dataRef: port13, cellColor: { thresholdsRef: operstatus } }
+  port14: { dataRef: port14, cellColor: { thresholdsRef: operstatus } }
+  port15: { dataRef: port15, cellColor: { thresholdsRef: operstatus } }
+  port16: { dataRef: port16, cellColor: { thresholdsRef: operstatus } }
+  port17: { dataRef: port17, cellColor: { thresholdsRef: operstatus } }
+  port18: { dataRef: port18, cellColor: { thresholdsRef: operstatus } }
+  port19: { dataRef: port19, cellColor: { thresholdsRef: operstatus } }
+  port20: { dataRef: port20, cellColor: { thresholdsRef: operstatus } }
+  port21: { dataRef: port21, cellColor: { thresholdsRef: operstatus } }
+  port22: { dataRef: port22, cellColor: { thresholdsRef: operstatus } }
+  port23: { dataRef: port23, cellColor: { thresholdsRef: operstatus } }
+  port24: { dataRef: port24, cellColor: { thresholdsRef: operstatus } }fi
