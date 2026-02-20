@@ -1,5 +1,5 @@
 rules:
-  - id: force-test
+  - id: prove-flow
     match:
       id: /.*/
     stroke:
