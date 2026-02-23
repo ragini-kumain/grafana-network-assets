@@ -1,14 +1,14 @@
 ---
 colors:
   up: "#00c853"
-  down: "#d50000"
+  empty: "#708090"
 
 cellColorMappings:
   darkTheme:
     up: up
-    down: down
+    empty: empty
 
 thresholds:
   operstatus:
-    - { color: down, level: 2 }
-    - { color: up, level: 1 }
+    - { color: up, level: 1 }   # up
+    - { color: empty, level: 2 }   # empty

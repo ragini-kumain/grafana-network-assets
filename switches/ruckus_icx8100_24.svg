@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  viewBox="0 0 1200 400"
+  xmlns="http://www.w3.org/2000/svg"
+  width="100%"
+  height="100%"
+> <!-- Optional subtle glow definition -->
+  <defs>
+    <filter id="softGlow">
+      <feDropShadow dx="0" dy="0" stdDeviation="1.5" flood-color="#00E5FF"/>
+    </filter>
+  </defs>
+
+  <!-- Background Switch Image -->
+  <image 
+    href="https://productresources.commscope.com/admin/ImageServer.php?ID=bdd50a2d447eb565e2d8ea13cdad0fa41b5bdadddbcb87bcc735c5ea1f5d1b43:195474@pjk349&class=Mamfile&rand=77dc54938b4af75e9ef0eb40096686f7&omitPreview=true&downloadname=RUCKUS-ICX8100-24-front.png&preset=10"
+    x="0"
+    y="0"
+    width="1200"
+    height="400"
+    preserveAspectRatio="xMidYMid meet"
+  />
+
+  <!-- SETTINGS -->
+  <!-- Box Size = 30 -->
+  <!-- Step = 40 -->
+  <!-- Start X = 566 -->
+  <!-- Row1 Y = 170 -->
+  <!-- Row2 Y = 220 -->
+
+  <!-- ===================== -->
+  <!-- ROW 1 : Ports 13–24 -->
+  <!-- ===================== -->
+
+  <g>
+
+    <!-- 13 -->
+    <rect  id="cell-port13" x="606" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port13_text" x="621" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">13</text>
+
+    <!-- 14 -->
+    <rect  id="cell-port14" x="646" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port14_text" x="661" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">14</text>
+
+    <!-- 15 -->
+    <rect  id="cell-port15" x="683" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port15_text" x="698" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">15</text>
+
+    <!-- 16 -->
+    <rect  id="cell-port16" x="718" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port16_text" x="732" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">16</text>
+
+    <!-- 17 -->
+    <rect  id="cell-port17" x="752" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port17_text" x="767" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">17</text>
+
+    <!-- 18 -->
+    <rect  id="cell-port18" x="787" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port18_text" x="802" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">18</text>
+
+    <!-- 19 -->
+    <rect  id="cell-port19" x="834" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port19_text" x="849" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">19</text>
+
+    <!-- 20 -->
+    <rect  id="cell-port20" x="869" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port20_text" x="884" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">20</text>
+
+    <!-- 21 -->
+    <rect  id="cell-port21" x="904" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port21_text" x="919" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">21</text>
+
+    <!-- 22 -->
+    <rect  id="cell-port22" x="939" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port22_text" x="954" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">22</text>
+
+    <!-- 23 -->
+    <rect  id="cell-port23" x="974" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port23_text" x="991" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">23</text>
+
+    <!-- 24 -->
+    <rect  id="cell-port24" x="1010" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+    <text id="port24_text" x="1025" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">24</text>
+
+  </g>
+
+  <!-- ===================== -->
+  <!-- ROW 2 : Ports 1–12 -->
+  <!-- ===================== -->
+
+<g>
+
+  <!-- 1 (same X as 13) -->
+  <rect id="cell-port1" x="606" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port1_text" x="621" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">1</text>
+
+  <!-- 2 (same X as 14) -->
+  <rect id="cell-port2" x="646" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port2_text" x="661" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">2</text>
+
+  <!-- 3 (same X as 15) -->
+  <rect id="cell-port3" x="683" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port3_text" x="698" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">3</text>
+
+  <!-- 4 (same X as 16) -->
+  <rect id="cell-port4" x="718" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port4_text" x="732" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">4</text>
+
+  <!-- 5 (same X as 17) -->
+  <rect id="cell-port5" x="752" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port5_text" x="767" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">5</text>
+
+  <!-- 6 (same X as 18) -->
+  <rect id="cell-port6" x="787" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port6_text" x="802" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">6</text>
+
+  <!-- 7 (same X as 19) -->
+  <rect id="cell-port7" x="834" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port7_text" x="849" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">7</text>
+
+  <!-- 8 (same X as 20) -->
+  <rect id="cell-port8" x="869" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port8_text" x="884" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">8</text>
+
+  <!-- 9 (same X as 21) -->
+  <rect id="cell-port9" x="904" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port9_text" x="919" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">9</text>
+
+  <!-- 10 (same X as 22) -->
+  <rect id="cell-port10" x="939" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port10_text" x="954" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">10</text>
+
+  <!-- 11 (same X as 23) -->
+  <rect id="cell-port11" x="974" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port11_text" x="991" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">11</text>
+
+  <!-- 12 (same X as 24) -->
+  <rect id="cell-port12" x="1010" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+  <text id="port12_text" x="1025" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">12</text>
+
+</g>
+
+</svg>
