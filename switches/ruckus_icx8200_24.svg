@@ -33,7 +33,7 @@
   <!-- ===================== -->
 
  <g>
-  <text id="port2_text" x="230" y="234" font-size="48" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">Ruckus ICX 8200-24</text>
+  <text id="cell-text" x="230" y="234" font-size="48" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">Ruckus ICX 8200-24</text>
  </g>
 
  <g>
