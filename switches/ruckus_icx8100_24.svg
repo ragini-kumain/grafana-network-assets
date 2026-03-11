@@ -36,43 +36,43 @@ only chang ethe numbering
     <text id="cell-text" x="294" y="234" font-size="50" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">Ruckus ICX 8100</text>
   </g>
 
-  <g>
+<g>
 
-  <rect id="cell-port2" x="606" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port2_text" x="621" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">2</text>
+<rect id="cell-port1" x="606" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port1_text" x="621" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">1</text>
 
-  <rect id="cell-port4" x="646" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port4_text" x="661" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">4</text>
+<rect id="cell-port3" x="646" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port3_text" x="661" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">3</text>
 
-  <rect id="cell-port6" x="683" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port6_text" x="698" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">6</text>
+<rect id="cell-port5" x="683" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port5_text" x="698" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">5</text>
 
-  <rect id="cell-port8" x="718" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port8_text" x="732" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">8</text>
+<rect id="cell-port7" x="718" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port7_text" x="732" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">7</text>
 
-  <rect id="cell-port10" x="752" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port10_text" x="767" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">10</text>
+<rect id="cell-port9" x="752" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port9_text" x="767" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">9</text>
 
-  <rect id="cell-port12" x="787" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port12_text" x="802" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">12</text>
+<rect id="cell-port11" x="787" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port11_text" x="802" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">11</text>
 
-  <rect id="cell-port14" x="834" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port14_text" x="849" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">14</text>
+<rect id="cell-port13" x="834" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port13_text" x="849" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">13</text>
 
-  <rect id="cell-port16" x="869" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port16_text" x="884" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">16</text>
+<rect id="cell-port15" x="869" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port15_text" x="884" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">15</text>
 
-  <rect id="cell-port18" x="904" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port18_text" x="919" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">18</text>
+<rect id="cell-port17" x="904" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port17_text" x="919" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">17</text>
 
-  <rect id="cell-port20" x="939" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port20_text" x="954" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">20</text>
+<rect id="cell-port19" x="939" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port19_text" x="954" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">19</text>
 
-  <rect id="cell-port22" x="974" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port22_text" x="991" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">22</text>
+<rect id="cell-port21" x="974" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port21_text" x="991" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">21</text>
 
-  <rect id="cell-port24" x="1010" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port24_text" x="1025" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">24</text>
+<rect id="cell-port23" x="1010" y="195" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port23_text" x="1025" y="212" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">23</text>
 
 </g>
 
@@ -81,43 +81,40 @@ only chang ethe numbering
   <!-- ROW 2 : ODD Ports -->
   <!-- ===================== -->
 <g>
+<rect id="cell-port2" x="606" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port2_text" x="621" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">2</text>
 
-  <rect id="cell-port1" x="606" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port1_text" x="621" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">1</text>
+<rect id="cell-port4" x="646" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port4_text" x="661" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">4</text>
 
-  <rect id="cell-port3" x="646" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port3_text" x="661" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">3</text>
+<rect id="cell-port6" x="683" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port6_text" x="698" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">6</text>
 
-  <rect id="cell-port5" x="683" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port5_text" x="698" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">5</text>
+<rect id="cell-port8" x="718" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port8_text" x="732" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">8</text>
 
-  <rect id="cell-port7" x="718" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port7_text" x="732" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">7</text>
+<rect id="cell-port10" x="752" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port10_text" x="767" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">10</text>
 
-  <rect id="cell-port9" x="752" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port9_text" x="767" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">9</text>
+<rect id="cell-port12" x="787" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port12_text" x="802" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">12</text>
 
-  <rect id="cell-port11" x="787" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port11_text" x="802" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">11</text>
+<rect id="cell-port14" x="834" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port14_text" x="849" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">14</text>
 
-  <rect id="cell-port13" x="834" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port13_text" x="849" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">13</text>
+<rect id="cell-port16" x="869" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port16_text" x="884" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">16</text>
 
-  <rect id="cell-port15" x="869" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port15_text" x="884" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">15</text>
+<rect id="cell-port18" x="904" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port18_text" x="919" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">18</text>
 
-  <rect id="cell-port17" x="904" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port17_text" x="919" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">17</text>
+<rect id="cell-port20" x="939" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port20_text" x="954" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">20</text>
 
-  <rect id="cell-port19" x="939" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port19_text" x="954" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">19</text>
+<rect id="cell-port22" x="974" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port22_text" x="991" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">22</text>
 
-  <rect id="cell-port21" x="974" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port21_text" x="991" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">21</text>
-
-  <rect id="cell-port23" x="1010" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
-  <text id="port23_text" x="1025" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">23</text>
-
+<rect id="cell-port24" x="1010" y="235" width="30" height="30" rx="5" fill="#000000" stroke="#888" stroke-width="3"/>
+<text id="port24_text" x="1025" y="252" text-anchor="middle" dominant-baseline="middle" fill="#f9f6f6" stroke="#f9f6f6">24</text>
 </g>
-
 </svg>
